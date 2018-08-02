@@ -57,7 +57,7 @@ func resolveGitRepo(repo string) (string, error) {
 	// for the file.
 	//
 	// `curl https://github.com/fake-git-user/fake-git-repo`  - FAIL
-	// `curl https://github.com/rthallisey/service-broker-ci` - PASS
+	// `curl https://github.com/fusor/service-broker-ci` - PASS
 	//
 	addr := strings.Split(repo, "/")
 	if len(addr) >= 2 {

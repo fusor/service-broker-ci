@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rthallisey/service-broker-ci/pkg/runtime"
+	"github.com/fusor/service-broker-ci/pkg/runtime"
 )
 
 func CreateCi() (*Config, error) {

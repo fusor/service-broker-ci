@@ -3,7 +3,7 @@ package action
 import (
 	"fmt"
 
-	"github.com/rthallisey/service-broker-ci/pkg/runtime"
+	"github.com/fusor/service-broker-ci/pkg/runtime"
 )
 
 func Deprovision(repo string, cmd string) error {

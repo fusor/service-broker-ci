@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/rthallisey/service-broker-ci/pkg/ci"
+	"github.com/fusor/service-broker-ci/pkg/ci"
 )
 
 func main() {

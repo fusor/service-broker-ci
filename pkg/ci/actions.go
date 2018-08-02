@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rthallisey/service-broker-ci/pkg/action"
+	"github.com/fusor/service-broker-ci/pkg/action"
 )
 
 type Broker interface {

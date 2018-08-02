@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rthallisey/service-broker-ci/pkg/runtime"
+	"github.com/fusor/service-broker-ci/pkg/runtime"
 )
 
 func Bind(repo string, cmd string, target string) error {

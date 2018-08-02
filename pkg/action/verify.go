@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rthallisey/service-broker-ci/pkg/runtime"
+	"github.com/fusor/service-broker-ci/pkg/runtime"
 )
 
 func Verify(repo string, args string) error {

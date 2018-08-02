@@ -72,8 +72,8 @@ verify: oc get pods
 The Verify action is optional, but it's highly recommended you use it to verify
 that your apb worked correctly.
 Example verification scripts:
- - https://github.com/rthallisey/service-broker-ci/blob/master/wait-for-resource.sh
- - https://github.com/rthallisey/service-broker-ci/blob/master/verify-mediawiki-postgresql.sh
+ - https://github.com/fusor/service-broker-ci/blob/master/wait-for-resource.sh
+ - https://github.com/fusor/service-broker-ci/blob/master/verify-mediawiki-postgresql.sh
 
 
 ### Config file format
